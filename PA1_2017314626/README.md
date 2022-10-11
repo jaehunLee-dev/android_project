@@ -8,3 +8,5 @@
 + Shuffle 버튼을 누를 시 퍼즐이 랜덤하게 섞입니다.
 + 퍼즐 조각을 누르면 슬라이드(이동)가 가능합니다.
 + 퍼즐 완성 시 'FINISH!' 문구가 표시됩니다.
+
+![image](https://user-images.githubusercontent.com/86291473/195110005-3b739a6c-fbc6-4197-91af-3fa3b32a90b9.png)
